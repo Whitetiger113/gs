@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+img {
+    position: absolute;
+    text-align: center;
+}
